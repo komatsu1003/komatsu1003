@@ -1,6 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=komatsu1003" />
 </div>
 
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting!&comment=Generated%20by%20komatsu1003/typograssy"></a>
@@ -8,25 +8,18 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 📫 How to reach me: [Twitter - @Dmino_1003](https://twitter.com/Dmino_1003)
+- 📫 If you want to contact me, feel free to send me a message: [X(Twitter) - @Dmino_1003](https://twitter.com/Dmino_1003)
 <br>
 
-## 🌱 Skills
+## 🌱 Studying Languages...
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,figma,r,cpp,java,processing" />
 <br>
 
-## 🏃‍♀️ Activities
-<details>
-  <summary>𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴 𝘨𝘦𝘯𝘦𝘳𝘢𝘵𝘦𝘥 𝘣𝘺 𝘎𝘪𝘵𝘏𝘶𝘣 𝘱𝘳𝘰𝘧𝘪𝘭𝘦 𝘩𝘦𝘭𝘱𝘦𝘳𝘴</summary>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=komatsu1003)](https://git.io/streak-stats)
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komatsu1003&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu1003&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=komatsu1003&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
+## 🏃‍♀️ My Activities...
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=komatsu1003&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu1003&theme=vue-dark&layout=compact" />
+</div>
 
 
 <!--
