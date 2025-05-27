@@ -15,14 +15,15 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,figma,r,cpp,java,processing" />
 <br>
 
+
+<!--
+
 ## 🏃‍♀️ My Activities...
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=komatsu1003&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komatsu1003&theme=vue-dark&layout=compact" />
 </div>
 
-
-<!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
